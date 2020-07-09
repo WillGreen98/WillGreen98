@@ -1,6 +1,6 @@
 # Hello There 👋
 
-![](https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre)
+![Hello There](https://github.com/WillGreen98/WillGreen98/blob/master/giphy.gif)
 
 <!--
 **WillGreen98/WillGreen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
