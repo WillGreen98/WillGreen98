@@ -14,6 +14,3 @@
 
 - 🥰 Worthless Dev
 - 🎓 CS Graduate with (Pending) Honours from the University of Portsmouth.
-- 👯 I’m looking to collaborate on Backend Dev or NLP
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He/He
