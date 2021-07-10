@@ -3,8 +3,8 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.linkedin.com/in/willgreen98/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
-<a href="https://twitter.com/Will_Green98"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/willgreen98/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg?raw=true"></a>
+<a href="https://twitter.com/Will_Green98"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg?raw=true"></a>
 
 <div align="center">
 	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3> 
