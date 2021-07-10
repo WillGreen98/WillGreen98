@@ -1,18 +1,23 @@
-# Hello There 👋
+<div align="center">
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+ 
+<p align='center'> 
+<a href="https://www.linkedin.com/in/willgreen98/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/Will_Green98"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>
 
-![Hello There](https://github.com/WillGreen98/WillGreen98/blob/master/giphy.gif)
+<div align="center">
+	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3> 
+</div>
 
-<!--
-**WillGreen98/WillGreen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me: 
 
-Here are some ideas to get you started:
+- 🥰 Worthless Dev
+- 🎓 CS Graduate with (Pending) Honours from the University of Portsmouth.
+- 👯 I’m looking to collaborate on Backend Dev or NLP
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: He/He
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<p>--------------------------------------------------------------------------------------------------</p>
+<\div>
