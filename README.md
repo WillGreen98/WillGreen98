@@ -17,7 +17,3 @@
 - 👯 I’m looking to collaborate on Backend Dev or NLP
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/He
-
-<div align="center">
-<p>--------------------------------------------------------------------------------------------------</p>
-<\div>
