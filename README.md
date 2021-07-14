@@ -8,9 +8,7 @@
 	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3> 
 </div>
 
-<div align="center">
-	![](https://visitor-badge.glitch.me/badge?page_id=willgreen98.visitor-badge)
-</div>
+![](https://visitor-badge.glitch.me/badge?page_id=willgreen98.visitor-badge)
 
 ### About Me: 
 
