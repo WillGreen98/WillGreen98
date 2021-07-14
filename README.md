@@ -14,3 +14,5 @@
 
 - 🥰 Worthless Dev
 - 🎓 CS Graduate with (Pending) Honours from the University of Portsmouth.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=willgreen98&show_icons=true&locale=en" alt="willgreen98" /></p>
