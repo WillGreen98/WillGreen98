@@ -3,14 +3,14 @@
 </div>
  
 <p align='center'> 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willgreen98/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Will_Green98) -->
 
 <div align="center">
 	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3> 
 </div>
 
-Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=willgreen98.visitor-badge)
+<div align="center">
+	![](https://visitor-badge.glitch.me/badge?page_id=willgreen98.visitor-badge)
+</div>
 
 ### About Me: 
 
