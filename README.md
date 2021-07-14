@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/willgreen98" alt="LinkedIn">
 	    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/Will_Green98" alt="Tweeter">
-        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)/></a>
+        <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white/></a>
 </p>
 
 <div align="center">
