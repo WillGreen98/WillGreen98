@@ -10,12 +10,15 @@
 </p>
 
 <div align="center">
-	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3> 
+	<h3> Will | 👨🏻‍💻 Software Engineer | 🌏 London, UK </h3>
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=willgreen98.visitor-badge)
 
-### About Me: 
+### About Me
 
 - 🥰 Worthless Dev
 - 🎓 CS Graduate with (Pending) Honours from the University of Portsmouth.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
