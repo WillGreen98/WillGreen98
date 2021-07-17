@@ -22,6 +22,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TeX        1 hr 54 mins    ████████████████░░░░░░░░░   64.00 % 
+Python     34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Markdown   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+YAML       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 <!--END_SECTION:waka-->
