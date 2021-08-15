@@ -18,7 +18,7 @@
 ### About Me
 
 - 🥰 Worthless Dev
-- 🎓 CS Graduate with (Pending) Honours from the University of Portsmouth.
+- 🎓 Computer Science Graduate with First Class Honours from the University of Portsmouth.
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
