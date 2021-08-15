@@ -19,6 +19,8 @@
 
 - 🥰 Worthless Dev
 - 🎓 Computer Science Graduate with First Class Honours from the University of Portsmouth.
+- 📖 Language Enthusiast with a focus on Natural Language Programming (Dissertation)
+- 🤖 Electronics Hobbyist
 
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
