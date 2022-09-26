@@ -31,4 +31,4 @@ C++   34 mins         ███████████████████�
 
 <!--END_SECTION:waka-->
 
-https://leetcard.jacoblin.cool/WillGreen98?theme=unicorn&font=JetBrains%20Mono&ext=activity
+![LeetCode Stats](https://leetcard.jacoblin.cool/WillGreen98?theme=unicorn&font=JetBrains%20Mono&ext=activity)
