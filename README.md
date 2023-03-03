@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Rust             1 hr 49 mins    ███████████████████████▒░   92.69 %
-TOML             8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
