@@ -26,7 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   29 mins         ███████████████░░░░░░░░░░   60.15 %
+BibTeX   13 mins         ███████░░░░░░░░░░░░░░░░░░   27.78 %
+TeX      5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
