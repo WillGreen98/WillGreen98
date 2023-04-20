@@ -26,12 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   16 mins         █████████▒░░░░░░░░░░░░░░░   36.74 %
-Java             15 mins         █████████░░░░░░░░░░░░░░░░   35.85 %
-Markdown         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-XML              3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Git              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
