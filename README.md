@@ -26,7 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TeX            7 mins          ██████████████████░░░░░░░   72.05 %
+Other          2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
 ```
 
 <!--END_SECTION:waka-->
