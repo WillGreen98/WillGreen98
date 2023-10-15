@@ -26,7 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   1 min           █████████████████████████   100.00 %
+Python   3 mins          ███████████████████████░░   91.91 %
+Other    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
