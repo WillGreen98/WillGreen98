@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 mins          ██████████████▒░░░░░░░░░░   57.38 %
-Java     2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.12 %
-XML      1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
