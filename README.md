@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker     21 mins         ████████████████▓░░░░░░░░   66.42 %
-Markdown   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Bash       4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
