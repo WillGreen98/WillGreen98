@@ -26,9 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             15 mins         ████████████████████░░░░░   80.42 %
-Markdown         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
-GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Java             29 mins         ██████████████████▓░░░░░░   74.90 %
+Markdown         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+GitIgnore file   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
