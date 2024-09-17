@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         33 mins         ████████████████████████░   95.41 %
-Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
