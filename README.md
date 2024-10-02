@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haskell   29 mins         ███████████████████▒░░░░░   77.70 %
-YAML      8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
