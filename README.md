@@ -26,7 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash   15 mins         ███████████████░░░░░░░░░░   60.03 %
+Rust   10 mins         █████████▓░░░░░░░░░░░░░░░   39.17 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
