@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        3 mins          █████████▓░░░░░░░░░░░░░░░   38.75 %
+CMake      3 mins          █████████▒░░░░░░░░░░░░░░░   37.71 %
+Markdown   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
+JSON       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Docker     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
