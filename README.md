@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   49 mins         █████████████████████████   99.77 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
