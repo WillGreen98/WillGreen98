@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   26 mins         █████████████████████████   100.00 %
+TeX   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
