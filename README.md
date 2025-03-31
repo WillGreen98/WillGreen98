@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CMake            29 mins         █████████████▒░░░░░░░░░░░   53.14 %
-C++              21 mins         █████████▓░░░░░░░░░░░░░░░   38.78 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Java             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Java module      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
