@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML    38 mins         ████████████▒░░░░░░░░░░░░   49.92 %
-Bash   36 mins         ████████████░░░░░░░░░░░░░   47.51 %
-Text   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
