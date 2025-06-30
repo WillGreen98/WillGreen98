@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      7 mins          ███████████████████████░░   92.64 %
-Docker   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
