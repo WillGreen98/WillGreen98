@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   20 mins         █████████▒░░░░░░░░░░░░░░░   37.93 %
+TeX      16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Java     10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+JSON     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
