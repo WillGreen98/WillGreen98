@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 2 hrs 20 mins         ███████████████████░░░░░░   75.50 %
-YAML                       10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Bash                       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Other                      8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-TSConfig                   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
