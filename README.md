@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Swift        52 mins               ███████████████░░░░░░░░░░   59.52 %
+TypeScript   23 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
+Markdown     7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+XML          4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
