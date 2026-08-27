@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 51 mins          ████████████████████▒░░░░   81.90 %
-CMake        14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Git Config   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-GLSL         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Roff         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
