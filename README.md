@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 hrs 4 mins          ███████████████▓░░░░░░░░░   62.55 %
-Java Properties   13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Git Config        13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-JSON              10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-GitIgnore file    6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown   12 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
